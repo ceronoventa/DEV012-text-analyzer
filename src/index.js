@@ -33,14 +33,7 @@ function metricas() {
   const numberCount = analyzer.getNumberCount(texto);
   const numberSum = analyzer.getNumberSum(texto);
   const wordLengthAverage = analyzer.getAverageWordLength(texto);
-  actualizarElementos(
-    wordCount,
-    characterCount,
-    characterNoSpacesCount,
-    numberCount,
-    numberSum,
-    wordLengthAverage
-  );
+  actualizarElementos(wordCount, characterCount, characterNoSpacesCount, numberCount, numberSum, wordLengthAverage);
 }
 
 textarea.addEventListener("input", metricas);
@@ -53,3 +46,5 @@ resetButton.addEventListener("click", function () {
   }
 });
 metricas();
+    
+    
