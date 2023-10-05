@@ -27,10 +27,9 @@
 
 ## 2. Preámbulo
 
-![Una lupa sobre texto de libro](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
+![Una plantilla modelo](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
 
-_Credito: Foto de [ethan](https://unsplash.com/fr/@andallthings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
-_en [Unsplash](https://unsplash.com/es/fotos/72NpWZJOskU?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)_
+_Credito: Foto de [ethan]("C:\Users\camil\OneDrive\Escritorio\text analizer plantilla.png")
 
 Un analizador de texto es una aplicación para extraer información útil de un
 texto utilizando diversas técnicas, como el procesamiento del lenguaje
@@ -86,7 +85,7 @@ resultado en tiempo real a medida que la usuaria escribe su texto:
 3. La aplicación debe permitir limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-![Text analyzer demo](https://github-production-user-asset-6210df.s3.amazonaws.com/12631491/240650556-988dcd6f-bc46-473b-894c-888a66c9fe2d.gif "Text analyzer demo")
+![Text analyzer demo]("C:\Users\camil\OneDrive\Escritorio\analizador burbuja.png") ( "Text analyzer demo")
 
 ## 5. Boilerplate
 
