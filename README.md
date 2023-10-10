@@ -10,9 +10,7 @@
 
 ## 1. Text Analizer
 
-![Una plantilla modelo]<img src="C:\Users\camil\OneDrive\Escritorio\imagenes analizador\text analizer plantilla.png" alt="mano alzada">
-
-_Credito: Foto de [ethan]("C:\Users\camil\OneDrive\Escritorio\text analizer plantilla.png")
+![Una plantilla modelo]<img src="https://github.com/ceronoventa/DEV012-text-analyzer/blob/main/text%20analizer%20plantilla.png?raw=true" alt="mano alzada">
 
 Un analizador de texto es una aplicación para extraer información útil de un
 texto utilizando diversas técnicas, como el procesamiento del lenguaje
@@ -64,7 +62,7 @@ resultado en tiempo real a medida que vas escribiendo tu texto:
 3. Puedes limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-![Text analyzer demo]<img src="C:\Users\camil\OneDrive\Escritorio\imagenes analizador\analizador burbuja.png" alt="Burbuja"> ( "Text analyzer demo")
+![Text analyzer demo]<img src="https://github.com/ceronoventa/DEV012-text-analyzer/blob/main/analizador%20burbuja.png?raw=true" alt="Burbuja"> ( "Text analyzer demo")
 
 ## 4. Boilerplate
 
