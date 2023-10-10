@@ -5,7 +5,8 @@
 * [1. Text Analizer](#2-preámbulo)
 * [2. Resumen de la aplicación](#3-resumen-de-la-aplicacion)
 * [3. Funcionalidades](#4-funcionalidades)
-* [4. Boilerplate](#5-boilerplate)
+* [4. Para qué es útil un analizador de texto?](#5-Para-que-es-util)
+* [5. Creadora](#5-Creadora)
 ***
 
 ## 1. Text Analizer
@@ -64,28 +65,20 @@ clic en un botón.
 
 ![Text analyzer demo]<img src="https://github.com/ceronoventa/DEV012-text-analyzer/blob/main/analizador%20burbuja.png?raw=true" alt="Burbuja"> ( "Text analyzer demo")
 
-## 4. Boilerplate
+## 4. Para qué es útil un analizador de texto?
+Conteo y Estadísticas: Puede contar palabras, caracteres, oraciones, y proporcionar estadísticas sobre la longitud de las palabras, la frecuencia de palabras, entre otros.
 
-La lógica del proyecto debe estar implementada completamente en JavaScript. 
- Un _boilerplate_ es la estructura básica de un proyecto que sirve como un punto de partida con
-archivos y configuración inicial de dependencias y tests.
+Análisis de Contenido: Puede analizar el contenido de un texto para identificar temas clave, palabras clave o conceptos importantes.
 
-El boilerplate contiene esta estructura:
+Reconocimiento de Patrones: Ayuda a identificar patrones específicos en el texto, como fechas, direcciones de correo electrónico, números de teléfono, enlaces web, etc.
 
-```text
-./
-├── .babelrc
-├── .editorconfig
-├── .eslintrc
-├── .gitignore
-├── README.md
-├── package.json
-├── src
-│   ├── analyzer.js
-│   ├── index.html
-│   ├── index.js
-│   └── style.css
-└── test
-    ├── .eslintrc
-    └── analyzer.spec.js
+Extracción de Información: Puede extraer información específica de documentos, como números, fechas o cualquier otro dato estructurado.
 
+Automatización de Tareas de Texto: Puede ser utilizado para automatizar tareas repetitivas relacionadas con el texto, como la generación de resúmenes, la corrección gramatical o la traducción automática.
+
+Análisis de Documentos: En entornos empresariales, se puede utilizar para analizar grandes conjuntos de documentos para obtener información valiosa.
+
+Desarrollo de Aplicaciones de Chatbots: Los analizadores de texto son fundamentales en el desarrollo de aplicaciones de chatbots para entender y responder a las consultas de los usuarios.
+
+## 5. Creadora
+Creadora Camila Palma, 31 años, Deportista y madre Chilena. De profesión Ing, por gusto incursionando en el mundo de la programación esperando no morir en el intento.
