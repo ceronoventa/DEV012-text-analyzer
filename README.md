@@ -27,7 +27,7 @@
 
 ## 2. Preámbulo
 
-![Una plantilla modelo](https://github.com/Laboratoria/curriculum/assets/92090/2b45f653-69a5-4282-a65c-d34125c36113)
+![Una plantilla modelo]<img src="C:\Users\camil\OneDrive\Escritorio\imagenes analizador\text analizer plantilla.png" alt="mano alzada">
 
 _Credito: Foto de [ethan]("C:\Users\camil\OneDrive\Escritorio\text analizer plantilla.png")
 
@@ -85,7 +85,7 @@ resultado en tiempo real a medida que la usuaria escribe su texto:
 3. La aplicación debe permitir limpiar el contenido de la caja de texto haciendo
 clic en un botón.
 
-![Text analyzer demo]("C:\Users\camil\OneDrive\Escritorio\analizador burbuja.png") ( "Text analyzer demo")
+![Text analyzer demo]<img src="C:\Users\camil\OneDrive\Escritorio\imagenes analizador\analizador burbuja.png" alt="Burbuja"> ( "Text analyzer demo")
 
 ## 5. Boilerplate
 
